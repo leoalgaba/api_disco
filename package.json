@@ -1,0 +1,10 @@
+{
+  "name": "api_disco",
+  "version": "1.0.0",
+  "dependencies":{
+  	"mongoose":"latest",
+  	"express":"latest",
+  	"method-override":"latest",
+  	"body-parser":"latest"
+  }
+}
